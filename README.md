@@ -13,7 +13,7 @@ Estudiante de desarrollo apasionado por el backend y la arquitectura de software
 | :--- | :--- | :--- |
 | **Tienda Inazuma** | E-commerce especializado en juegos. | [Ver Código ↗️](https://github.com/Neestor63/tienda_inazuma) |
 | **Freelancer** | Proyecto de servicios profesionales. | [Ver Código ↗️](https://github.com/Neestor63/freelancer) |
-| **Efectos CSS BNM** | Biblioteca de animaciones y efectos visuales. | [Ver Código ↗️](https://github.com/Neestor63/efectos-css-BNM-) |
+| **Gamestore** | Biblioteca de animaciones y efectos visuales. | [Ver Código ↗️](https://github.com/Fabiuskybm/gamestore) |
 
 ---
 ### 📧 Contacto
