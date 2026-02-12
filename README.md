@@ -19,4 +19,4 @@ Estudiante de desarrollo apasionado por el backend y la arquitectura de software
 ### 📧 Contacto
 - **Email:** nestorcabrera548@gmail.com
 - **Instagram:** @nestor.63
-- **Linkedln:** Néstor Cabrera
+- **Linkedln:** Néstor Cabrera Alonso
