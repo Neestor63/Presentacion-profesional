@@ -22,12 +22,6 @@ Estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)** en el **IES A
 
 ---
 
-### 📊 Estadísticas de GitHub
-![Estadísticas de Néstor](https://github-readme-stats.vercel.app/api?username=Neestor63&show_icons=true&theme=radical)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Neestor63&layout=compact&theme=radical)
-
----
-
 ### 📧 Contacto
 * **Email:** [nestorcabrera548@gmail.com](mailto:nestorcabrera548@gmail.com)
 * **LinkedIn:** [Néstor Cabrera Alonso](https://www.linkedin.com/in/nestorcabreraalonso)
