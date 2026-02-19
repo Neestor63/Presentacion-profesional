@@ -12,7 +12,7 @@ Estudiante de desarrollo apasionado por el backend y la arquitectura de software
 | Proyecto | Descripción | Enlace |
 | :--- | :--- | :--- |
 | **Tienda Inazuma** | E-commerce especializado en juegos. | [Ver Código ↗️](https://github.com/Neestor63/tienda_inazuma) |
-| **Freelancer** | Proyecto de servicios profesionales. | [Ver Código ↗️](https://github.com/Neestor63/freelancer) |
+| **Calculadora-ecologica** | Proyecto de servicios profesionales. | [Ver Código ↗️](https://github.com/Neestor63/calculadora-ecologica) |
 | **Gamestore** | Tienda de ropa deportiva. | [Ver Código ↗️](https://github.com/Fabiuskybm/gamestore) |
 
 ---
