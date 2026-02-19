@@ -18,7 +18,7 @@ Estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)** en el **IES A
 | :--- | :--- | :--- | :--- |
 | **🌍 EcoLogi-Sync** | Calculadora de huella de carbono y gestión logística circular. | `HTML5` `CSS3` `JS` | [Ver Código ↗️](https://github.com/Neestor63/calculadora-ecologica) |
 | **🎮 Tienda Inazuma** | E-commerce especializado en videojuegos y coleccionables. | `PHP` `SQL` `CSS` | [Ver Código ↗️](https://github.com/Neestor63/tienda_inazuma) |
-| **⚽ Gamestore** | Plataforma de retail para ropa y equipamiento deportivo. | `Java` `Spring` | [Ver Código ↗️](https://github.com/Fabiuskybm/gamestore) |
+| **⚽ Gamestore** | Plataforma de retail para ropa y equipamiento deportivo. | `JS` `PHP`  `HTML5` `CSS3` `JS` `SQL` | [Ver Código ↗️](https://github.com/Fabiuskybm/gamestore) |
 
 ---
 
